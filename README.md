@@ -1,2 +1,5 @@
-# Bryan Laurier, UX/UI Webdesigner
- Perosnal Website
+# My-Website
+
+This Folder contain my own Website/Portfolio.
+
+Link: http://bryan-laurier.com
