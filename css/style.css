@@ -1545,3 +1545,12 @@ a.link:hover {
     color: var(--white);
     filter: drop-shadow(0 0 0.20rem var(--white));
 }
+
+/*--------*/
+.fa-check-circle{
+    color: green;
+}
+
+.fa-times-circle{
+    color: red;
+}
