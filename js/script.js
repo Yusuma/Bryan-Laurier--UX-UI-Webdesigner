@@ -29,7 +29,7 @@ function toggleNavbar() {
 /*-------------- Active Section ----------------*/
 document.addEventListener("click", (e) => {
     if (e.target.classList.contains("link-item") && e.target.hash !== "") {
-        //activate the overlay toi prevent multiple clicks
+        //activate the overlay to prevent multiple clicks
         document.querySelector(".overlay").classList.add("active");
         navToggler.classList.add("hide");
         if (e.target.classList.contains("nav-item")) {
