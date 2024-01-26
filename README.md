@@ -1,5 +1,5 @@
-# My-Website
+# Bryan-Laurier--UX-UI-Webdesigner
 
 This Folder contain my own Website/Portfolio.
 
-Link: http://bryan-laurier.com
+Link: https://yusuma.github.io/Bryan-Laurier--UX-UI-Webdesigner/
